@@ -4,6 +4,7 @@
 - 📫 How to reach me : send Email!
 - 🤝 Email: a.eyni3272@gmail.com 
 - ✍️ skills : programming (python && ruby) , linux , pentest , web application testing and so ,
+- <telegram> t.me/prog_IR && t.me/amir_eyni </telegram>
 
 <!---
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
